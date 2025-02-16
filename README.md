@@ -1,5 +1,11 @@
 Image Gallery
+
+
+
 Overview
+
+
+
 The Image Gallery is a responsive web application that displays a collection of images in an organized and visually appealing manner. Users can view images, filter them by category, and interact with a lightbox for a detailed view.
 
 Features
